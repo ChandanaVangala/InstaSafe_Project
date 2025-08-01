@@ -1,4 +1,5 @@
-You can try installing the provided apk file and check the WiFi security.
+You can try installing the provided WiFiSecurityCheck.apk file and check the WiFi security.
+
 App Overview:
 WiFi Secure Scanner is a simple and lightweight Android app that helps you check how safe your current WiFi connection is — and also tells you if you’re using a VPN. It’s built to keep you informed about your network security and offers useful tips to stay protected while browsing online.
 
